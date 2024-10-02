@@ -1,8 +1,6 @@
-# TBI_Patient_Analysis
-
 # Project Title
+TBI_Patient_Analysis
 
-Briefly describe the project in one or two sentences.
 
 ## Table of Contents
 
